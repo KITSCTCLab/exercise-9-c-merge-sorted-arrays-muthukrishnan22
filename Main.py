@@ -14,4 +14,4 @@ for item in input().split(', '):
 m = int(input())
 n = int(input())
 merge(nums1, m, nums2, n)
-print(nums1)
+print(nums1) 
